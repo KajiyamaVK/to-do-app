@@ -1,4 +1,3 @@
-import { InputHTMLAttributes, useState } from "react";
 import styles from "./TaskCheckbox.module.css";
 import { AiOutlineCheck } from "react-icons/ai";
 import { useTaskContext } from "../contexts";

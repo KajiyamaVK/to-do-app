@@ -1,5 +1,4 @@
 import { ITask } from "./interfaces";
-import { useTaskContext } from "./contexts";
 
 export function sortTasks(tasks: ITask[]) {
   const result = tasks.sort((a, b) => {
