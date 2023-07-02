@@ -1,0 +1,27 @@
+.checkbox {
+  border-radius: 50% !important;
+  height: 1.5rem;
+  width: 1.5rem;
+  border: 1px solid var(--blue);
+  cursor: pointer;
+  transition: background-color 0.1s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.checkbox:hover {
+  background-color: var(--blue-dark);
+  border-color: var(--blue-dark);
+}
+
+.completed {
+  background-color: var(--purple-dark);
+  border-color: var(--purple-dark);
+  color: white;
+}
+
+.completed:hover {
+  background-color: var(--purple);
+  border-color: var(--purple);
+}

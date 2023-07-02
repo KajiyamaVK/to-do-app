@@ -1,0 +1,17 @@
+button {
+  background: transparent;
+  outline: 0;
+  border: 0;
+  cursor: pointer;
+}
+
+.trash {
+  color: var(--gray-300);
+  width: 1.5rem;
+  height: 1.5rem;
+  transition: color 0.2s;
+}
+
+.trash:hover {
+  color: var(--danger);
+}

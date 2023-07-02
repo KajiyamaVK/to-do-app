@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  background-color: var(--gray-400);
+  border-radius: 8px;
+  padding: 1rem;
+  width: 100%;
+}
+
+.content {
+  color: var(--gray-100);
+  flex-grow: 2;
+  margin-left: 12px;
+}
+
+.content.isCompleted {
+  color: var(--gray-300);
+  text-decoration: line-through;
+}
