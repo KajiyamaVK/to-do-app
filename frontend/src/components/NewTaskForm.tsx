@@ -25,7 +25,6 @@ export default function NewTaskForm() {
     };
     setTaskData(sortTasks([...taskData, newTaskObject]));
     clearInput();
-    console.log(taskData);
   }
 
   function handleKeyPress(e: React.KeyboardEvent<HTMLInputElement>) {
