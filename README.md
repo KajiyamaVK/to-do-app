@@ -1,3 +1,4 @@
+
 # DoDo
 
 *A To Do App using pure ReactJS, Vite and Typescript - using Context API.
@@ -6,33 +7,28 @@ Online on: [Vercel](https://to-do-app-two-lemon.vercel.app/)*
 ## INDEX
 
 <!--ts-->
-* [About the project](#About)
-  1. [Stacks used]
+* [About the project](#Abour-the-project)
+  1. [Stacks used](#stacks-used)
   1. [Challenges](#about-the-challenges)
   2. [About storage](#about-storage)
    
 ## ABOUT THE PROJECT
 
-###STACKS USED
+### STACKS USED
 #### FRONT-END
 
-<div>
-<img src='/public/Stacks/html.png' style='width:80px' alt='html logo'>
-<img src='/public/Stacks/javascript.jpg' style='width:80px' alt='javascript logo'>
-<img src='/public/Stacks/css.png' style='width:80px' alt='css logo'>
-<img src='/public/Stacks/typescript.jpg' style='width:80px' alt='css logo'>
-<img src='/public/Stacks/react.jpg' style='width:80px' alt='ReactJS logo'>
+<div style='display:flex'>
+	<img src='https://fullstacker.com.br/imgs/Stacks/react.jpg' width=60/>
+	<img src='https://fullstacker.com.br/imgs/Stacks/typescript.jpg' width=60/>
+	<img src='https://fullstacker.com.br/imgs/Stacks/html.png' width=60/>
+	<img src='https://fullstacker.com.br/imgs/Stacks/css.png' width=60/>
 </div>
 
 #### BACK-END
-
-<div>
-<img src='/public/Stacks/html.png' style='width:80px' alt='html logo'>
-<img src='/public/Stacks/javascript.jpg' style='width:80px' alt='javascript logo'>
-<img src='/public/Stacks/css.png' style='width:80px' alt='css logo'>
-<img src='/public/Stacks/typescript.jpg' style='width:80px' alt='css logo'>
-<img src='/public/Stacks/react.jpg' style='width:80px' alt='ReactJS logo'>
+<div style='display:flex'>
+	<img src='https://fullstacker.com.br/imgs/Stacks/node.png' width=60/>
 </div>
+
 #### ABOUT THE CHALLENGES
 The main challange here is to build the solution with plain ReactJS and NodeJS - neither NextJS, Vue, Angular, Nest, Express should be used. 
 
